@@ -88,7 +88,7 @@ li {
   }
 
   .Restaurant {
-    width: 69%;
+    width: 70%;
   }
 
   .MenuView {
@@ -98,6 +98,10 @@ li {
 
   .visit {
     float: center;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
