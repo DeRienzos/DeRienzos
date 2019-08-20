@@ -95,6 +95,10 @@ li {
     height: 100%;
      margin: 23px 0;
   }
+
+  .visit {
+    float: center;
+  }
 }
 
 @media screen and (min-width: 1000px) {
@@ -121,6 +125,10 @@ li {
 
 .Restaurant {
   width: 70%;
+}
+
+.visit {
+  float: right;
 }
 }
 
@@ -295,7 +303,6 @@ footer {
   color: #F7F7F2;
   font-family: 'Lato', sans-serif;
   font-size: 20px;
-  float: right;
   padding-right: 20px;
 }
 
