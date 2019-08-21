@@ -350,6 +350,7 @@ width: 100%;
 text-align: left;
 font-family: 'Oswald', sans-serif;
 font-size: 18px;
+border-collapse: collapse;
 }
 
 .foodtableS {
@@ -358,6 +359,7 @@ text-align: left;
 font-family: 'Oswald', sans-serif;
 font-size: 18px;
 padding-bottom: 35px;
+border-collapse: collapse;
 }
 
 .foodtable td {
@@ -372,7 +374,7 @@ padding-bottom: 35px;
   text-align: right;
 }
 
-th, td {
+th, td, tr {
   border-bottom: 1px solid #ddd;
 }
 
