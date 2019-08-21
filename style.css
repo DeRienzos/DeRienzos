@@ -82,7 +82,7 @@ li {
   background-color: #252627;
 }
 
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 800px) {
   .align {
   padding-bottom: 4em;
   }
@@ -106,12 +106,12 @@ li {
   }
 
   .Restaurant {
-    width: 68%;
+    width: 67%;
   }
 
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 801px) {
   .hrs {
     grid-template-columns: repeat(3, 1fr);
   }
