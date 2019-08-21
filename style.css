@@ -87,13 +87,9 @@ li {
   padding-bottom: 4em;
   }
 
-  .Restaurant {
-    width: 70%;
-  }
-
   .MenuView {
     height: 100%;
-     margin: 23px 0;
+    margin: 23px 0;
   }
 
   .visit {
@@ -103,6 +99,16 @@ li {
     margin-left: 0;
     margin-right: 0;
   }
+
+  .rowtwo {
+    width: 70%;
+    margin: 0 auto;
+  }
+
+  .Restaurant {
+    width: 68%;
+  }
+
 }
 
 @media screen and (min-width: 1000px) {
